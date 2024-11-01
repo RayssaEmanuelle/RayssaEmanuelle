@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Rayssa Emanuelle 👋
+###Olá! Me chamo Rayssa Emanuelle 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-emanuelle-464a6b234/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayssalima1605/)
@@ -23,6 +23,6 @@
 
 </div><br/>
 
-### Oi! Sou apaixonada por tecnologia e estou explorando o mundo da programação. Cada projeto é uma nova aventura.
+### ✨Sou apaixonada por tecnologia e estou explorando o mundo da programação. Cada projeto é uma nova aventura.✨
 
-Programando como uma chef: misturando códigos e pitadas de criatividade!
+💻Programando como uma chef: misturando códigos e pitadas de criatividade!
