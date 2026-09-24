@@ -65,7 +65,7 @@ Sistema de gerenciamento de chamados desenvolvido para praticar integração ent
 </p>
 
 <h3>
-  🤖 <a href="https://github.com/RayssaEmanuelle/AUTOMA-O-PYAUTOGUI">YouTube Automation</a>
+  ⚙️ <a href="https://github.com/RayssaEmanuelle/AUTOMA-O-PYAUTOGUI">YouTube Automation</a>
 </h3>
 
 <p>
