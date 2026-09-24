@@ -85,8 +85,7 @@ Calculadora desenvolvida em Java para praticar programação orientada a objetos
 ## 📈 Atualmente
 
 Estou focada em evoluir meus conhecimentos em desenvolvimento web através de projetos práticos e transformar cada projeto em uma oportunidade de aprender algo novo.
-
-<br>
+ <hr>
 
 📫 <strong>Vamos nos conectar?</strong>
 
