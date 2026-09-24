@@ -1,17 +1,17 @@
 
 ### Olá, eu sou a Rayssa! 👋
-###💻 Desenvolvedora Web em formação
+💻 Desenvolvedora Web em formação
 
-###Estou construindo minha jornada no desenvolvimento web através de projetos práticos, buscando entender não apenas como escrever código, mas também como estruturar aplicações e fazer suas diferentes partes funcionarem juntas.
+Estou construindo minha jornada no desenvolvimento web através de projetos práticos, buscando entender não apenas como escrever código, mas também como estruturar aplicações e fazer suas diferentes partes funcionarem juntas.
 
-###🚀 Sobre mim
+🚀 Sobre mim
 💻 Estudando desenvolvimento web
 🌱 Evoluindo principalmente com JavaScript e Node.js
 🔗 Trabalhando com APIs REST e integração entre frontend e backend
 🧩 Criando projetos para colocar meus estudos em prática
 📚 Sempre aprendendo algo novo
 
-###📫 Vamos nos conectar?
+📫 Vamos nos conectar?
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-emanuelle-464a6b234/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayssalima1605/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ray_dev?_t=8r2UPTYiWk1&_r=1)
