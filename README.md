@@ -54,33 +54,39 @@ Estou construindo minha jornada no desenvolvimento web através de projetos prá
   </h3>
 
   <h2> 📌 Projetos </h2>
- 🛠️ Api HelpDesk
+ <h3>
+  🛠️ <a href="https://github.com/RayssaEmanuelle/Api-Helpdesk">API HelpDesk</a>
+</h3>
 
- Sistema de gerenciamento de chamados desenvolvido para praticar integração entre frontend e backend.
-Tecnologias: HTML, JavaScript, Tailwind CSS, Node.js, Express e API REST. 
+<p>
+Sistema de gerenciamento de chamados desenvolvido para praticar integração entre frontend e backend.
+<br>
+<strong>Tecnologias:</strong> HTML, JavaScript, Tailwind CSS, Node.js, Express e API REST.
+</p>
 
+<h3>
+  🤖 <a href="https://github.com/RayssaEmanuelle/AUTOMA-O-PYAUTOGUI">YouTube Automation</a>
+</h3>
 
-🤖 AUTOMA-O-PYAUTOGUI
-
-Descrição:
-
+<p>
 Automação de tarefas utilizando Python e PyAutoGUI.
+</p>
 
+<h3>
+  📊 <a href="https://github.com/RayssaEmanuelle/Automa-o-Openpyxl">Excel Automation</a>
+</h3>
 
-📊 Automa-o-Openpyxl
-
-Descrição:
-
+<p>
 Automação de planilhas Excel utilizando Python e OpenPyXL.
+</p>
 
+<h3>
+  🧮 <a href="https://github.com/RayssaEmanuelle/Calculator">Calculator</a>
+</h3>
 
-🧮 Calculator
-
-Descrição:
-
+<p>
 Calculadora desenvolvida em Java para praticar programação orientada a objetos.
-
-</div>
+</p>
 
 ## 📈 Atualmente
 
